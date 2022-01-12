@@ -1,4 +1,4 @@
 # Responsive-Script-for-emailing-with-Attachments
 
 # Task given by NSS NSUT CELL
-Responsive Script for emailing with Attachments
+Responsive Script for Automated emailing with Attachments
